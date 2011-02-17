@@ -1,0 +1,15 @@
+header {
+  background-color: #333;
+  margin: 0 auto;
+  padding: 1px 0;
+  text-align: center;
+  width: 75%;
+}
+  header p {
+    color: #fff;
+    font-size: 16px;
+  }
+
+#evan_machnic {
+  color: blue;
+}
